@@ -1,0 +1,11 @@
+.ProductPage {
+    padding: 1rem;
+}
+
+.productContainer {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
